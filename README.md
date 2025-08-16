@@ -1,12 +1,3 @@
-## Author 
-
-You may think that's a typical project, i hope that's not, within this project you will find many errors and lot of solutions for your problems,
-I experienced retail & ecommerce in electronics (pcs & smartphones), this thing keep my alarmed about some key points, easy to use & robust, we will be the best in our category of open source web apps
-
-I'm very greatfulll for the contribution in the Laravel community, learned some much in the process, now it's my turn to give.
-
-(Peace) سلام
-
 ## Overview 
 
 MystockMaster is a Laravel-based inventory management system that offers an easy and straightforward way to keep track of your inventory, sales, purchases, and more. It features a user-friendly dashboard, intuitive reports, and a wide range of features to help you manage and grow your business.
@@ -90,20 +81,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ![Sale Create](screens/sale-create.png)
 - Customer Create
 ![Customer Create](screens/customer-modal.png)
-
-## Contact
-
--   [Twitter](https://twitter.com/zakarialabib)
--   [LinkedIn](https://www.linkedin.com/in/zakaria-labib/)
--   [GitHub](https://www.github.com/zakarialabib/)
-
-## Contributors
-
--   [zakarialabib](https://www.github.com/zakarialabib)
--   [elmarzouguidev](https://github.com/elmarzouguidev)
--   [yassinebenaid](https://github.com/yassinebenaid)
--   [ismaail](https://github.com/ismaail)
-
-## Donate
 
 If you like this project, leave a star and share it with your friends.
